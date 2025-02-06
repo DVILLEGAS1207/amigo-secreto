@@ -19,5 +19,6 @@ El proyecto **Amigo Secreto** es una aplicación que permite a los usuarios orga
 
 ### Instrucciones de instalación
 1. Clona este repositorio en tu máquina local:
-   ```bash git clone https://github.com/DVILLEGAS1207/amigo-secreto.git
-2. Usar.
+   ```bash
+   git clone https://github.com/DVILLEGAS1207/amigo-secreto.git
+2. Usar
